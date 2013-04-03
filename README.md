@@ -8,6 +8,9 @@ repo" too.
 Introduction
 ============
 
+I tried [Boxen](http://boxen.github.com) (really, I even did this [post](http://glipho.com/fbeeper/my-experience-with-boxen),
+but it is not as easy as I would have liked (I've no experience neither Ruby nor Puppet). That's fBootstrap birthdate.
+
 In order to have easier reinstalls of my Mac, I did some scripts somewhere in
 between of [Thoughtbot's Laptop](https://github.com/thoughtbot/laptop) and any
 other [dotfiles](http://dotfiles.github.com) repo at Github. Briefly, the main
