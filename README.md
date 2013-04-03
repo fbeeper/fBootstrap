@@ -8,10 +8,7 @@ repo" too.
 Introduction
 ============
 
-I tried [Boxen](http://boxen.github.com) (really, I even did this [post](http://glipho.com/fbeeper/my-experience-with-boxen),
-but it is not as easy as I would have liked (I've no experience neither Ruby nor Puppet). That's fBootstrap birthdate.
-
-In order to have easier reinstalls of my Mac, I did some scripts somewhere in
+In order to have easier reinstalls of my Mac*, I did some scripts somewhere in
 between of [Thoughtbot's Laptop](https://github.com/thoughtbot/laptop) and any
 other [dotfiles](http://dotfiles.github.com) repo at Github. Briefly, the main
 scripts are organized as follows:
@@ -60,6 +57,7 @@ What you get
 An essential pack of software for your Mac:
 
 * [Homebrew](http://mxcl.github.com/homebrew/)
+* [Homebrew-Cask](https://github.com/phinze/homebrew-cask) SUPER HANDY!!!
 * [Zsh](http://www.zsh.org) + [Oh my
   sh!](https://github.com/robbyrussell/oh-my-zsh)!
 * [Dropbox](https://www.dropbox.com) 
@@ -154,3 +152,10 @@ If you use it the least you must choose something from this list.
 
 Besides that, I hope you are kind enough to reference any your sources whether
 is my code or a code from a 3rd party!
+
+
+
+
+* I tried [Boxen](http://boxen.github.com) (really, I even did this [post](http://glipho.com/fbeeper/my-experience-with-boxen),
+but it is not as easy as I would have liked (I've no experience neither Ruby nor Puppet). That's fBootstrap birthdate. 
+It won't have a fancy architecture, but it will be more handy for me! :D
