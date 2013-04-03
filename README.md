@@ -8,7 +8,7 @@ repo" too.
 Introduction
 ============
 
-In order to have easier reinstalls of my Mac*, I did some scripts somewhere in
+In order to have easier reinstalls of my Mac[*](#boxen-sweat_smile), I did some scripts somewhere in
 between of [Thoughtbot's Laptop](https://github.com/thoughtbot/laptop) and any
 other [dotfiles](http://dotfiles.github.com) repo at Github. Briefly, the main
 scripts are organized as follows:
@@ -155,7 +155,9 @@ is my code or a code from a 3rd party!
 
 
 
-
-* I tried [Boxen](http://boxen.github.com) (really, I even did this [post](http://glipho.com/fbeeper/my-experience-with-boxen),
+<br />
+Boxen :sweat_smile:
+----
+<a id="footnote"></a>\* I tried [Boxen](http://boxen.github.com) (really, I even did this [post](http://glipho.com/fbeeper/my-experience-with-boxen)),
 but it is not as easy as I would have liked (I've no experience neither Ruby nor Puppet). That's fBootstrap birthdate. 
 It won't have a fancy architecture, but it will be more handy for me! :D
