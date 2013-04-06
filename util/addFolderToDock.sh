@@ -17,3 +17,4 @@ else
 fi
 
 defaults write com.apple.dock persistent-others -array-add "<dict><key>tile-data</key><dict><key>arrangement</key><integer>2</integer><key>displayas</key><integer>1</integer><key>file-data</key><dict><key>_CFURLString</key><string>$D_PATH</string><key>_CFURLStringType</key><integer>0</integer></dict><key>file-label</key><string>$D_NAME</string><key>file-type</key><integer>18</integer><key>showas</key><integer>2</integer></dict><key>tile-type</key><string>directory-tile</string></dict>"
+# I learnt how to do dock object additions here :P http://krypted.com/mac-os-x/adding-objects-to-the-dock/
